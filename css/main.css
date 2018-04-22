@@ -1,0 +1,18 @@
+/* Preloader */
+.loader {
+  position: absolute;
+  top: 40%;
+  left: 47%;
+}
+
+/* Login */
+.btn-extended {
+  display: block;
+  width: 80%;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.login {
+  margin: 70px 0;
+}
